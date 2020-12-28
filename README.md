@@ -1,2 +1,3 @@
 # rollDice
-A Android Basic Project
+Basic Android Project
+-> https://developer.android.com/
